@@ -7784,10 +7784,10 @@ jsii-reflect@^1.94.0:
     oo-ascii-tree "^1.94.0"
     yargs "^16.2.0"
 
-jsii-rosetta@5.3.17:
-  version "5.3.17"
-  resolved "https://registry.yarnpkg.com/jsii-rosetta/-/jsii-rosetta-5.3.17.tgz#41da3255a33a15e48ba9748774240581be337196"
-  integrity sha512-ctN7Xndh9CHnWsiGRA5l8NQqLN86YO7yIEVTYPW7zTtO0yFWqy8AMwz1Hoc00j2iJ3lXpdJ6qt2ynvndXFj5uA==
+jsii-rosetta@5.3.19:
+  version "5.3.19"
+  resolved "https://registry.yarnpkg.com/jsii-rosetta/-/jsii-rosetta-5.3.19.tgz#f726c5f0fae5943cd64ce1033feb2a7b2be2cd29"
+  integrity sha512-+fQ62AbrgDDN7i6dC6JILVFFOppCABpnzS/eEtbGSMdSy5EF+5kfl61D3UJJEloG+an/WS3VwuiEu1POG1tVkA==
   dependencies:
     "@jsii/check-node" "1.94.0"
     "@jsii/spec" "^1.94.0"
